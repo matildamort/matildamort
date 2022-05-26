@@ -4,13 +4,13 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/matildamorton/">
-    <img src="https://github.com/matildamort/matildamort/blob/main/LI1.png" width="100" alt="LinkedIn Badge"/>
+    <img src="https://github.com/matildamort/matildamort/blob/main/LI1.png" target="_blank" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/matilda.morton">
-    <img src="https://github.com/matildamort/matildamort/blob/main/FB1.png" width="100" alt="Facebook icon"/>
+    <img src="https://github.com/matildamort/matildamort/blob/main/FB1.png" target="_blank" alt="Facebook icon"/>
   </a>
   <a href="https://twitter.com/Matilda74190430">
-    <img src="https://github.com/matildamort/matildamort/blob/main/TW1.png" width="100" alt="Twitter Badge"/>
+    <img src="https://github.com/matildamort/matildamort/blob/main/TW1.png" target="_blank" alt="Twitter Badge"/>
   </a>
 </div>
 
