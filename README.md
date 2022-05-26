@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://github.com/matildamort/matildamort/blob/main/Banner-1.png" />
+</div>
+
 <!--
 **matildamort/matildamort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
