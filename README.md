@@ -3,14 +3,14 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/matildamorton/">
-    <img src="https://github.com/matildamort/matildamort/blob/main/LI1.png" target="_blank" width="300" alt="LinkedIn Badge"/>
+  <a href="https://www.linkedin.com/in/matildamorton/" target="_blank">
+    <img src="https://github.com/matildamort/matildamort/blob/main/LI1.png" width="300" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/matilda.morton">
-    <img src="https://github.com/matildamort/matildamort/blob/main/FB1.png" target="_blank" width="300" alt="Facebook icon"/>
+  <a href="https://www.facebook.com/matilda.morton" target="_blank">
+    <img src="https://github.com/matildamort/matildamort/blob/main/FB1.png" width="300" alt="Facebook icon"/>
   </a>
-  <a href="https://twitter.com/Matilda74190430">
-    <img src="https://github.com/matildamort/matildamort/blob/main/TW1.png" target="_blank" width="300" alt="Twitter Badge"/>
+  <a href="https://twitter.com/Matilda74190430" target="_blank">
+    <img src="https://github.com/matildamort/matildamort/blob/main/TW1.png"  width="300" alt="Twitter Badge"/>
   </a>
 </div>
 
