@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <div id="header" align="center">
-  <img src="https://github.com/matildamort/matildamort/blob/main/Banner-1.png" />
+  <img src="https://github.com/matildamort/matildamort/blob/main/Banner-1.png" width="100"/>
 </div>
 
 <!--
