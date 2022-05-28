@@ -1,4 +1,3 @@
-<div style="background-color: radial-gradient(328px at 2.9% 15%, rgb(191, 224, 251) 0%, rgb(232, 233, 251) 25.8%, rgb(252, 239, 250) 50.8%, rgb(234, 251, 251) 77.6%, rgb(240, 251, 244) 100.7);">
 
 <div id="header" align="center">
   <img src="https://github.com/matildamort/matildamort/blob/main/Banner-1.png"/>
@@ -6,26 +5,34 @@
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/matildamorton/" target="_blank">
-    <img src="https://github.com/matildamort/matildamort/blob/main/LI1.png" width="300" alt="LinkedIn Badge"/>
+    <img src="https://github.com/matildamort/matildamort/blob/main/LI1.png" width="250" alt="LinkedIn Badge"/>
   </a>
   <a href="https://www.facebook.com/matilda.morton" target="_blank">
-    <img src="https://github.com/matildamort/matildamort/blob/main/FB1.png" width="300" alt="Facebook icon"/>
+    <img src="https://github.com/matildamort/matildamort/blob/main/FB1.png" width="250" alt="Facebook icon"/>
   </a>
   <a href="https://twitter.com/Matilda74190430" target="_blank">
-    <img src="https://github.com/matildamort/matildamort/blob/main/TW1.png"  width="300" alt="Twitter Badge"/>
+    <img src="https://github.com/matildamort/matildamort/blob/main/TW1.png"  width="250" alt="Twitter Badge"/>
   </a>
 </div>
 
 <br />
 <br />
 
+
+
 <div align="center">
-<img alt=" GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=matildamort&show_icons=true&hide_border=false&title_color=ffffff&icon_color=ffffff&bg_color=9921e8&text_color=ffffff&border_color=ffffff" />
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ufz25jxynqmxngvv7bvovxi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
+<br />
+
+<img alt=" GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=matildamort&show_icons=true&hide_border=false&title_color=ffffff&icon_color=ffffff&bg_color=0,7900e9,c64dff&theme=graywhite&text_color=ffffff&border_color=ffffff" />
 </div>
 
 <br />
 <br />
  
+
 
 # Hi! I am a Full Stack Dev, Designer and Solutions finder!
 
