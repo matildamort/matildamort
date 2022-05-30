@@ -21,12 +21,13 @@
 
 
 <div align="center">
+  
+<img alt=" GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=matildamort&show_icons=true&hide_border=false&title_color=ffffff&icon_color=ffffff&bg_color=0,7900e9,c64dff&theme=graywhite&text_color=ffffff&border_color=ffffff" />
+  
+  <br />
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21ufz25jxynqmxngvv7bvovxi&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<br />
-
-<img alt=" GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=matildamort&show_icons=true&hide_border=false&title_color=ffffff&icon_color=ffffff&bg_color=0,7900e9,c64dff&theme=graywhite&text_color=ffffff&border_color=ffffff" />
 </div>
 
 <br />
